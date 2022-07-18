@@ -1,0 +1,23 @@
+.App{
+  display: flex;        
+  justify-content: center;
+}
+
+
+.notas{
+  width: 70vw;
+  height: 90vw;
+  background-color: aquamarine;
+  border-radius: 10vw;
+  display: flex;        
+  justify-content: center;
+}
+
+h2{
+  text-align: center;
+  background-color:blue;
+  width: 70%;
+  height: 30px;
+  border-radius: 20px;
+
+}
